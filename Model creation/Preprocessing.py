@@ -37,7 +37,7 @@ import seaborn as sns
 
 # i: Import Data
 
-url = 'https://github.com/shiv-2025/Adult-Census-Income-Prediction/blob/main/adult.csv?raw=true'
+url = 'https://github.com/supradeepdanturti/Census-Income-Prediction/blob/main/adult.csv?raw=true'
 df_raw = pd.read_csv(url)
 
 # i: Data Types

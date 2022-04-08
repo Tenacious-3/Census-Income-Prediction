@@ -5,10 +5,10 @@
 import pandas as pd
 
 #get the data
-url1 = 'https://github.com/shiv-2025/Adult-Census-Income-Prediction/blob/main/Database/X_cat.csv?raw=true'
+url1 = 'https://github.com/supradeepdanturti/Census-Income-Prediction/blob/main/Database/X_cat.csv?raw=true'
 X_cat = pd.read_csv(url1)
 
-url2 = 'https://github.com/shiv-2025/Adult-Census-Income-Prediction/blob/main/Database/y.csv?raw=true'
+url2 = 'https://github.com/supradeepdanturti/Census-Income-Prediction/blob/main/Database/y.csv?raw=true'
 y = pd.read_csv(url2)
 
 print(X_cat.head(5))
