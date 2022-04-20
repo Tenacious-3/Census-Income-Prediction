@@ -4,11 +4,11 @@ Here we have predicted salary of a person based on his/her age, race, education 
 
 Data is taken from Kaggle website https://www.kaggle.com/overload10/adult-census-dataset
 
-Check the actual website here: https://income11.herokuapp.com
+Check the actual website here: 
 
-Link to YouTube demo: https://youtu.be/hyP5gJqckcE
 
-![image](https://user-images.githubusercontent.com/82932314/131608147-a878f2e5-3faa-4582-8ea0-e2c139d8ca4d.png)
+
+
 
 
 ## Architecture
